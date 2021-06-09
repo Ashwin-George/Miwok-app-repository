@@ -1,2 +1,2 @@
 # Adapted-Miwok-App
-I Updated the Miwok app from the Android Development Udacity course to meet Android studio 2021. No more frustrations! Enjoy 🙂 and happy coding 👍
+This is one my first apps that can shows responsive behaviour , and I'm happy to present this app that i made learning from Udacity Course: Multiscreen apps
